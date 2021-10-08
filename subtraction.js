@@ -1,5 +1,10 @@
+/**
+ * Takes two numbers a and b, and returns their subtrction.
+ */
 function subtract(a, b) {
-  return '?';
+
+  return a - b;
+  
 }
 
 calculate('subtraction', subtract);
